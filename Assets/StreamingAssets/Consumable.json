@@ -1,0 +1,28 @@
+﻿	[
+		{
+            "ID": 1,
+            "Name": "血瓶",
+            "Type_": "Consumable",
+            "Quality_": "Common",
+            "Description": "这个是用来加血的1",
+            "Capacity": 10,
+            "BuyPrice": 10,
+            "SellPrice": 5,
+            "HP": 10,
+            "MP": 0,
+            "Sprite": "Knapsack/hp"
+        },
+        {
+            "ID": 2,
+            "Name": "蓝瓶",
+            "Type_": "Consumable",
+            "Quality_": "Common",
+            "Description": "这个是用来加蓝的2",
+            "Capacity": 10,
+            "BuyPrice": 10,
+            "SellPrice": 5,
+            "HP": 0,
+            "MP": 10,
+            "Sprite": "Knapsack/mp"
+        }
+	]

@@ -1,0 +1,28 @@
+﻿    [
+        {
+            "ID": 13,
+            "Name": "斧子",
+            "Type_": "Weapon",
+            "Quality_": "Rare",
+            "Description": "这个是斧子",
+            "Capacity": 1,
+            "BuyPrice": 100,
+            "SellPrice": 50,
+            "Sprite": "Knapsack/axe",
+            "Damage":100,
+            "WeaponType" : "MainHand"
+        },
+        {
+            "ID": 14,
+            "Name": "阴阳剑",
+            "Type_": "Weapon",
+            "Quality_": "Rare",
+            "Description": "这个是剑",
+            "Capacity": 1,
+            "BuyPrice": 100,
+            "SellPrice": 50,
+            "Sprite": "Knapsack/sword",
+            "Damage":100,
+            "WeaponType" : "OffHand"
+        }
+    ]
